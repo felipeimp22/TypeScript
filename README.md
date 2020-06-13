@@ -2,7 +2,7 @@
 
 Aqui veremos as primeiras formas de tipagem, e como configurar o primeiro contato com typescript.
 
-## Iniciando o projeto:
+# Iniciando o projeto:
 
 Para começar, basta iniciar um projeto node de forma normal, digitando os seguintes comando:
 
