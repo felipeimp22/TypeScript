@@ -35,7 +35,7 @@ porem tera o "@types/" na frente, seguindo essa logica instalaremos a outra bibl
 
 > yarn add  -D @types/express
 
-#CONFIGURAndo TS:
+# CONFIGURAndo TS:
 Para configurar precisamos rodar um comando para que apareça um arquivo tsconfig.json.
 
 > yarn tsc --init
