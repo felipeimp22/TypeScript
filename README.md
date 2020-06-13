@@ -42,7 +42,10 @@ Para configurar precisamos rodar um comando para que apareça um arquivo tsconfi
 
 Após rodar esse comando com sucesso, ira aparecer um arquivo tsconfig.json
 
-... Em andamento. 
+
+
+
+> ... Em andamento. 
 # Em andamento. Irei terminar de escrever em breve :D
 
 
