@@ -25,7 +25,7 @@ express:
 
 > yarn add express
 
-Logo após a instalação percebos que ao declarar alguma variavel como "express" o intellisense do visual code 
+Logo após a instalação percebemos que ao declarar alguma variavel como "express" o intellisense do visual code 
 não funcionará e provavelmente 3 pontinhos apareceram ao lado do import.
 
 Isso acontece pois precisamos instalar as tipagens da biblioteca para TS.
@@ -34,6 +34,13 @@ em sua maioria as bibliotecas se chamarão @types/nomedalib, ou seja ela tera o 
 porem tera o "@types/" na frente, seguindo essa logica instalaremos a outra biblioteca do expressa da seguinte maneira:
 
 > yarn add  -D @types/express
+
+#CONFIGURAndo TS:
+Para configurar precisamos rodar um comando para que apareça um arquivo tsconfig.json.
+
+> yarn tsc --init
+
+Após rodar esse comando com sucesso, ira aparecer um arquivo tsconfig.json
 
 ... Em andamento. 
 # Em andamento. Irei terminar de escrever em breve :D
