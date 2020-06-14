@@ -35,12 +35,24 @@ porem tera o "@types/" na frente, seguindo essa logica instalaremos a outra bibl
 
 > yarn add  -D @types/express
 
-# CONFIGURAndo TS:
-Para configurar precisamos rodar um comando para que apareça um arquivo tsconfig.json.
+# Configurando TS:
+Para configurar precisamos rodar um comando para que apareça um arquivo tsconfig.json, comando:
 
 > yarn tsc --init
 
 Após rodar esse comando com sucesso, ira aparecer um arquivo tsconfig.json
+
+iremos localizar a seguinte configuração:
+
+//"outDir" 
+
+Após localizarmos a configuração outDir comentada, iremos descomentar e passar um diretorio que será a pasta aonde o TS irá
+colocar as transpilações, exemplo:
+
+"outDir": "./dist"
+
+Mesmo que essa pasta não exista, quando o TS for transpilar ele irá criar, caso você crie manualmente, o resultado será o mesmo.
+
 
 
 
