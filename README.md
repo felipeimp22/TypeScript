@@ -45,7 +45,7 @@ Após rodar esse comando com sucesso, ira aparecer um arquivo tsconfig.json
 iremos localizar a seguinte configuração:
 
 //"outDir" 
-// "rootDir"
+/ "rootDir"
 
 Após localizarmos a configuração outDir comentada, iremos descomentar e passar um diretorio que será a pasta aonde o TS irá
 colocar as transpilações, exemplo:
