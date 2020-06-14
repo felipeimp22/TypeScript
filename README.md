@@ -45,13 +45,18 @@ Após rodar esse comando com sucesso, ira aparecer um arquivo tsconfig.json
 iremos localizar a seguinte configuração:
 
 //"outDir" 
+// "rootDir"
 
 Após localizarmos a configuração outDir comentada, iremos descomentar e passar um diretorio que será a pasta aonde o TS irá
 colocar as transpilações, exemplo:
 
-"outDir": "./dist"
+"outDir": "./dist",
+"rootDir": "./src",
 
 Mesmo que essa pasta não exista, quando o TS for transpilar ele irá criar, caso você crie manualmente, o resultado será o mesmo.
+
+Essas configurações indicam que a pasta src sera aonde ele ira procurar os arquivos TS, ou seja tudo que tiver dentro de src, ele
+também ira identificar e irá colocar a transpilação na pasta ./dist
 
 Assim que Finalizar a configuração você pode rodar o comando:
 
