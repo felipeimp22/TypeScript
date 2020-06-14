@@ -50,8 +50,8 @@ iremos localizar a seguinte configuração:
 Após localizarmos a configuração outDir comentada, iremos descomentar e passar um diretorio que será a pasta aonde o TS irá
 colocar as transpilações, exemplo:
 
-"outDir": "./dist",
-"rootDir": "./src",
+* "outDir": "./dist",
+* "rootDir": "./src",
 
 Mesmo que essa pasta não exista, quando o TS for transpilar ele irá criar, caso você crie manualmente, o resultado será o mesmo.
 
