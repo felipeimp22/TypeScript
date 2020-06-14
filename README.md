@@ -53,6 +53,20 @@ colocar as transpilações, exemplo:
 
 Mesmo que essa pasta não exista, quando o TS for transpilar ele irá criar, caso você crie manualmente, o resultado será o mesmo.
 
+Assim que Finalizar a configuração você pode rodar o comando:
+
+> yarn tsc
+
+Que ele irá identificar automáticamente todos os arquivos TS do projeto e ira compilar automaticamente, caso queira compilar o 
+arquivo separadamente basta rodar o comando de exemplo:
+
+> yarn tsc src/index.ts   <- Passar o diretorio que ira transpilar.
+
+Ficando esses dois comandos para transpilar:
+
+* yarn tsc src/index.js   <- vai buscar o diretorio e transpila manualmente o arquivo,e apenas o arquivo informado.
+* yarn tsc     <- irá buscar todos os arquivos TS do projeto e transpilar automáticamente.
+
 
 
 
