@@ -1,4 +1,5 @@
-![]("https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png?w=100")
+![](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png)
+<img src="https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png"
 
 
 # TypeScript First configuration:
