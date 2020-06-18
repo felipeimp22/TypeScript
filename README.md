@@ -1,4 +1,4 @@
-![](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png | width=100)
+![](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png width="200" height="400")
 
 
 # TypeScript First configuration:
