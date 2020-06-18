@@ -75,6 +75,16 @@ Ficando esses dois comandos para transpilar:
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Automatizando o processo: 
+
+Na maior parte das vezes, não iremos ficar rodando diversos comandos para transpilações em nosso projeto, isso faria com que perdessemos 
+muito rendimento no dia, então vamos automatizar esse processo.
+
+Iremos utilizar um pacote chamado: ts-node-dev.
+para instalar vamos usar o comando:
+
+> yarn add -D ts-node-dev
+
 
 > ... Em andamento. 
 # Em andamento. Irei terminar de escrever em breve :D
