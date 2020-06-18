@@ -1,6 +1,6 @@
 # TypeScript First configuration:
 
-#### Olá Mundo !
+#### Olá Mundo ! (hello world)
 Nesse Repositorio veremos os primeiros passos de como configurar o TypeScript, automatizar suas transpilações,
 configurar o ES e Prettier para TypeScript.
 ### Observações:
