@@ -1,6 +1,14 @@
 # TypeScript First configuration:
 
-Aqui veremos as primeiras formas de tipagem, e como configurar o primeiro contato com typescript.
+Olá Mundo !
+Nesse Repositorio veremos os primeiros passos de como configurar o TypeScript, automatizar suas transpilações,
+configurar o ES e Prettier para TypeScript.
+### Observações:
+Esse repositorio tera 2 projetos:
+* 1- primeira configuração com typescript e alguns exemplos de de tipagem.
+* 2- projeto configurado e automatizado com uma estrutura bacana de rotas e servidor de desenvolvimento.
+
+#### Bora Começar :D
 
 # Iniciando o projeto:
 
