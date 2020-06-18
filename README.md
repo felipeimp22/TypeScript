@@ -1,10 +1,10 @@
-![test](https://github.com/favicon.ico )
  <img src="https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png">
 
 
 # TypeScript First configuration:
 
-### Olá Mundo ! (hello world) :´D
+
+###  ![test](https://github.com/favicon.ico ) Olá Mundo ! (hello world) :´D
 Nesse Repositorio veremos os primeiros passos de como configurar o TypeScript, automatizar suas transpilações e ter um servidor de desenvolvimento "localhost",
 configurar o ES e Prettier para TypeScript e ainda ver nas pastas dos projetos um pouco de arquitetura de rotas e algumas tipagens
 ### Observações:
