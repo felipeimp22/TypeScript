@@ -1,4 +1,4 @@
-![alt text](https://dedevop.com/wp-content/uploads/2020/02/typescript-1.png "TS")
+![alt text](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png "TS")
 
 # TypeScript First configuration:
 
