@@ -1,5 +1,5 @@
-![](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png =250x250 )
-![](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png =250x250)
+![](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png | width=100)
+
 
 # TypeScript First configuration:
 
