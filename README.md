@@ -8,7 +8,7 @@ Esse repositorio tera 2 projetos:
 * 1- primeira configuração com typescript e alguns exemplos de de tipagem.
 * 2- projeto configurado e automatizado com uma estrutura bacana de rotas e servidor de desenvolvimento.
 
-#### Bora Começar :D
+### Bora Começar :D
 
 # Iniciando o projeto:
 
