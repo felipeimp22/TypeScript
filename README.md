@@ -1,3 +1,4 @@
+![alt text](http://https://dedevop.com/wp-content/uploads/2020/02/typescript-1.png)
 # TypeScript First configuration:
 
 ### Olá Mundo ! (hello world) :´D
