@@ -1,5 +1,5 @@
 ![](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png)
-<img src="https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png?width=10">
+<img src="https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png?w=10">
 
 
 # TypeScript First configuration:
