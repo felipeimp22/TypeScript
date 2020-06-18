@@ -1,6 +1,6 @@
 ![test](https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png  | width=48)
 <img src="https://miro.medium.com/max/3200/1*7QwRdAxb9Q8wejjQJiFJsQ.png"  | width=48>
-![test](https://github.com/favicon.ico | width=600)
+![test](https://github.com/favicon.ico )
 
 # TypeScript First configuration:
 
