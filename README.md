@@ -86,7 +86,7 @@ Ficando esses dois comandos para transpilar:
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Automatizando o processo: 
+# Automatizando o processo: 
 
 Na maior parte das vezes, não iremos ficar rodando diversos comandos para transpilações em nosso projeto, isso faria com que perdessemos 
 muito rendimento no dia, então vamos automatizar esse processo.
