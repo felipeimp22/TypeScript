@@ -5,7 +5,7 @@
 
 
 ###  ![test](https://github.com/favicon.ico ) Olá Mundo ! (hello world) :´D
-Nesse Repositorio veremos os primeiros passos de como configurar o TypeScript, automatizar suas transpilações, ter um servidor de desenvolvimento "localhost" com funções iguais do nodemon, configurar o ES, Prettier para TypeScript e ainda ver nas pastas dos projetos um pouco de arquitetura de rotas e algumas tipagens.
+Nesse Repositorio veremos os primeiros passos de como configurar o TypeScript, automatizar suas transpilações, ter um servidor de desenvolvimento "localhost" com funções iguais do nodemon para TS, configurar o ES, Prettier para TypeScript e ainda ver nas pastas dos projetos um pouco de arquitetura de rotas e algumas tipagens.
 ### Observações:
 Esse repositorio tera 2 projetos:
 * 1- primeira configuração com typescript e alguns exemplos de de tipagem.
