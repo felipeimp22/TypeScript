@@ -3,6 +3,7 @@ import express from 'express';
 import routes from './routes/index';
 
 const app = express();
+app.use(express.json()); // Use to application understand JSON
 app.use(routes);
 
 const port = 3333;
