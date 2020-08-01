@@ -97,6 +97,19 @@ para instalar vamos usar o comando:
 > yarn add -D ts-node-dev
 
 
+# Decorators
+Caso você queira trabalhar com decorators que é uma das melhores abstrações para se usar, voce precisa fazer uma coisa, para que o typescript
+identifique e não de problema.
+No seu arquivo inicial, ou seja, primeiro arquivo, ou arquivo que recebe todos sendo eles a criação do server ou algum tipo de orquestrador, é necessario chamar uma dependencia e instala-la.
+
+ > yarn add reflect-metadata
+ 
+ ai no arquivo principal basta voce importar da seguinte maneira:
+ OBS: de preferencia importar antes de tudo.
+ 
+ import 'reflect-metadata';
+
+
 > ... Em andamento. 
 # Em andamento. Irei terminar de escrever em breve :D
 
