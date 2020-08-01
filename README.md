@@ -112,6 +112,8 @@ No seu arquivo inicial, ou seja, primeiro arquivo, ou arquivo que recebe todos s
  import 'reflect-metadata';
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 > ... Em andamento. 
 # Em andamento. Irei terminar de escrever em breve :D
 
