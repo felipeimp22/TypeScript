@@ -98,6 +98,8 @@ para instalar vamos usar o comando:
 
 
 # Decorators
+## Evitando problemas futuros:
+
 Caso você queira trabalhar com decorators que é uma das melhores abstrações para se usar, voce precisa fazer uma coisa, para que o typescript
 identifique e não de problema.
 No seu arquivo inicial, ou seja, primeiro arquivo, ou arquivo que recebe todos sendo eles a criação do server ou algum tipo de orquestrador, é necessario chamar uma dependencia e instala-la.
